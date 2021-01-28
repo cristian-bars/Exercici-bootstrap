@@ -10074,7 +10074,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #007bff !important;
+  color: #eeff00 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10082,7 +10082,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: #796c7d !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -10090,7 +10090,7 @@ a.text-secondary:hover, a.text-secondary:focus {
 }
 
 .text-success {
-  color: #28a745 !important;
+  color: #a78528 !important;
 }
 
 a.text-success:hover, a.text-success:focus {
@@ -10098,7 +10098,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 .text-info {
-  color: #17a2b8 !important;
+  color: #4217b8 !important;
 }
 
 a.text-info:hover, a.text-info:focus {
@@ -10106,7 +10106,7 @@ a.text-info:hover, a.text-info:focus {
 }
 
 .text-warning {
-  color: #ffc107 !important;
+  color: #07ff51 !important;
 }
 
 a.text-warning:hover, a.text-warning:focus {
@@ -10114,7 +10114,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 .text-danger {
-  color: #dc3545 !important;
+  color: #35bbdc !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
@@ -10122,7 +10122,7 @@ a.text-danger:hover, a.text-danger:focus {
 }
 
 .text-light {
-  color: #f8f9fa !important;
+  color: #f9faf8 !important;
 }
 
 a.text-light:hover, a.text-light:focus {
@@ -10130,7 +10130,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 .text-dark {
-  color: #343a40 !important;
+  color: #403434 !important;
 }
 
 a.text-dark:hover, a.text-dark:focus {
@@ -10142,7 +10142,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #797d6c !important;
 }
 
 .text-black-50 {
